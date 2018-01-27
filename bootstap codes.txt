@@ -1,0 +1,11 @@
+https://select2.github.io/select2-bootstrap-theme/4.0.2.html
+
+http://bootstrap-notify.remabledesigns.com/
+https://nakupanda.github.io/bootstrap3-dialog/
+https://silviomoreto.github.io/bootstrap-select/examples/
+<span class='label label-success'>Relish</span>">
+https://codepen.io/Rio517/pen/NPLbpP
+https://jsfiddle.net/KyleMit/9abm0hhy/
+
+http://plugins.upbootstrap.com/bootstrap-select/
+http://paulrose.com/bootstrap-select-sass/
